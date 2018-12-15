@@ -10,7 +10,7 @@ Topics:
   	5) Уметь строить базовые сетки на флексбоксах. (задача - номер 4)
   	6) Как применяется calc()? Уметь верстать сетки с помощью calc() (почитай эту статью - https://webdesign.tutsplus.com/tutorials/calc-grids-are-the-best-grids--cms-22902 - если осилишь и поймешь, то круто)
     7) В чем отличие padding и margin? Что такое схлопывание маргинов?
-    8) Научиться пользоваться препроцессором SCSS
+    8) Научиться пользоваться препроцессором SCSS (см. видео https://www.youtube.com/watch?v=H4cG4tbc-xQ&t=1455s)
 
   HTML
     1) В чем отличие div, section, article?
