@@ -40,6 +40,7 @@ Topics:
     15) Как из ф-ции сделать класс?
     16) Что такое jQuery?
     17) Event delegating - как сделать, для чего нужен?
+    18) Call, aply, bind - что это и для чего используется?
 
 Tasks:
 1) https://codepen.io/IvanBisultanov/pen/BzGbWE - отцентровать зелеый квадрат по центру красного -
