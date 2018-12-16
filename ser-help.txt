@@ -11,11 +11,16 @@ Topics:
   	6) Как применяется calc()? Уметь верстать сетки с помощью calc() (почитай эту статью - https://webdesign.tutsplus.com/tutorials/calc-grids-are-the-best-grids--cms-22902 - если осилишь и поймешь, то круто)
     7) В чем отличие padding и margin? Что такое схлопывание маргинов?
     8) Научиться пользоваться препроцессором SCSS (см. видео https://www.youtube.com/watch?v=H4cG4tbc-xQ&t=1455s)
+    9) Что значит запись p {color: red !important;}
+    10) в чем разница между reset.css и normalize.css?
+    11) box-sizing: border-box - что это?
 
   HTML
     1) В чем отличие div, section, article?
     2) Что добавилось в HTML5 (ответ: section, article - эти все теги, плюс еще несколько типа audio, details - погугли)
-    3)
+    3) Почему хорошей практикой считается располагать <link> для подключения CSS между <head></head>, а <script> для подключения JS ставить перед </body>?
+    4) Для чего нужны "data-" атрибуты?
+    5) Что такое <!DOCTYPE> и зачем он нужен?
 
   JS
     1) В чем отличие между var, let, const
@@ -23,6 +28,16 @@ Topics:
     3) Что такое замыкание? Что такое область видимости? Чем отличается запись window.myVariable = 'myVariable' от var myVariable = 'myVariable' ?
     4) Что такое try .. catch .. finally ? (почитать - https://codeburst.io/learn-how-to-handle-javascript-errors-with-try-throw-catch-finally-83b4f9ef8c6f)
     5) Компилятор и интерпретатор - что это? Как браузер "понимает" js-код: с помощью к-тора или инт-тора?
+    6) Иметь понятие о ES6 (новый стандарт джаваскрипта)
+    7) Как в js сделать функцию с дефолтным значением? Привести пример кода
+    8) Надо будет повторить алгоритмы и научиться их делать в js, они охренеют, если сможешь это
+    9) Что такое this в js?
+    10) Знать, что такое ajax
+    11) Знать, что такое всплытие
+    12) Разница между == и ====
+    13) "use strict";
+    14) fizzbuzz
+    15) Как из ф-ции сделать класс?
 
 Tasks:
 1) https://codepen.io/IvanBisultanov/pen/BzGbWE - отцентровать зелеый квадрат по центру красного -
@@ -31,5 +46,12 @@ Tasks:
 3) https://codepen.io/IvanBisultanov/pen/jAJKVw - зачада по js, нужен созвон в скайпе, плюс надо посмотреть урок "Узкие места js" вроде бы, я скину потом тайминг
 4) https://codepen.io/AlexDz27/pen/REaEYo - нужен созвон - сделать так, чтоб блоки норм отображались, как на картинке
 5) https://codepen.io/AlexDz27/pen/MZegwR?editors=1010 - чекбоксы. Созвон в скайпе
+6) https://codepen.io/AlexDz27/pen/WLxeXP?editors=1010 - последнее слово - созвон
+
+Knowledge to keep their mouth open:
+1) В CSS лучше ставить директиву @font-face в начале, чтобы шрифт "не прыгал"
 
 Questions:
+https://medium.com/web-standards/front-end-interview-handbook-html-ab5a9b64755f
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
+https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/coding-questions.md (CODING)
