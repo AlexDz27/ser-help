@@ -21,6 +21,8 @@ Topics:
     1) В чем отличие между var, let, const
     2) В чем отличие между var myFunction = function() {...} от myFunction() {...}
     3) Что такое замыкание? Что такое область видимости? Чем отличается запись window.myVariable = 'myVariable' от var myVariable = 'myVariable' ?
+    4) Что такое try .. catch .. finally ? (почитать - https://codeburst.io/learn-how-to-handle-javascript-errors-with-try-throw-catch-finally-83b4f9ef8c6f)
+    5) Компилятор и интерпретатор - что это? Как браузер "понимает" js-код: с помощью к-тора или инт-тора?
 
 Tasks:
 1) https://codepen.io/IvanBisultanov/pen/BzGbWE - отцентровать зелеый квадрат по центру красного -
@@ -28,5 +30,6 @@ Tasks:
 2) https://codepen.io/IvanBisultanov/pen/QEoxvg - задача по js, нужен созвон в скайпе
 3) https://codepen.io/IvanBisultanov/pen/jAJKVw - зачада по js, нужен созвон в скайпе, плюс надо посмотреть урок "Узкие места js" вроде бы, я скину потом тайминг
 4) https://codepen.io/AlexDz27/pen/REaEYo - нужен созвон - сделать так, чтоб блоки норм отображались, как на картинке
+5) https://codepen.io/AlexDz27/pen/MZegwR?editors=1010 - чекбоксы. Созвон в скайпе
 
 Questions:
