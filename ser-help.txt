@@ -49,10 +49,11 @@ Tasks:
 4) https://codepen.io/AlexDz27/pen/REaEYo - нужен созвон - сделать так, чтоб блоки норм отображались, как на картинке
 5) https://codepen.io/AlexDz27/pen/MZegwR?editors=1010 - чекбоксы. Созвон в скайпе
 6) https://codepen.io/AlexDz27/pen/WLxeXP?editors=1010 - последнее слово - созвон
+7) https://codepen.io/AlexDz27/pen/oJLgqg?editors=0010 - созвон - сетТаймаут, event loop
 
 Knowledge to keep their mouth open:
 1) В CSS лучше ставить директиву @font-face в начале, чтобы шрифт "не прыгал"
-2) Javascript - однопоточный язык программирования с динамической слабой типизацией (почитать - https://proglib.io/p/literacy-project-type-checking/)
+2) Javascript - однопоточный синхронный (но в нем можно реализовать асинхронность (загрузка по сети, пользовательское взаимодействие)) язык программирования с динамической слабой типизацией (почитать - https://proglib.io/p/literacy-project-type-checking/) - нужен созвон, чтоб я поснил
 
 Questions:
 https://medium.com/web-standards/front-end-interview-handbook-html-ab5a9b64755f
