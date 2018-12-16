@@ -2,25 +2,26 @@ Topics:
 
   CSS
   	1) Специфичность в CSS. Типа чем отличиается запись 
-  		p {color: red;} от p.text {color: red;} или .text {color: red;} ?
+  		p {color: red;} от p .text {color: red;} или .text {color: red;} ? v
 
-  	2) Знать, что такое БЭМ (просто иметь представление)
-  	3) Что такое блочные, строчные, блочно-строчные элементы, в чем их разница?
-  	4) Какие виды позиционирования бывают? (свойство position: [value])
+  	2) Знать, что такое БЭМ (просто иметь представление)  v
+  	3) Что такое блочные, строчные, блочно-строчные элементы, в чем их разница? v
+  	4) Какие виды позиционирования бывают? (свойство position: [value]) (v)
   	5) Уметь строить базовые сетки на флексбоксах. (задача - номер 4)
-  	6) Как применяется calc()? Уметь верстать сетки с помощью calc() (почитай эту статью - https://webdesign.tutsplus.com/tutorials/calc-grids-are-the-best-grids--cms-22902 - если осилишь и поймешь, то круто)
-    7) В чем отличие padding и margin? Что такое схлопывание маргинов?
-    8) Научиться пользоваться препроцессором SCSS (см. видео https://www.youtube.com/watch?v=H4cG4tbc-xQ&t=1455s)
-    9) Что значит запись p {color: red !important;}
-    10) в чем разница между reset.css и normalize.css?
-    11) box-sizing: border-box - что это?
+  	6) Как применяется calc()? Уметь верстать сетки с помощью calc() (почитай эту статью - https://webdesign.tutsplus.com/tutorials/calc-grids-are-the-best-grids--cms-22902 - если осилишь и поймешь, то круто) (пока не надо)
+    7) В чем отличие padding и margin? Что такое схлопывание маргинов? (v)
+    8) Научиться пользоваться препроцессором SCSS (см. видео https://www.youtube.com/watch?v=H4cG4tbc-xQ&t=1455s) v
+    9) Что значит запись p {color: red !important;} v
+    10) в чем разница между reset.css и normalize.css? (v)
+    11) box-sizing: border-box - что это? v
+    12) Id и классы - в чем отличие?  v
 
   HTML
-    1) В чем отличие div, section, article?
-    2) Что добавилось в HTML5 (ответ: section, article - эти все теги, плюс еще несколько типа audio, details - погугли)
-    3) Почему хорошей практикой считается располагать <link> для подключения CSS между <head></head>, а <script> для подключения JS ставить перед </body>?
-    4) Для чего нужны "data-" атрибуты?
-    5) Что такое <!DOCTYPE> и зачем он нужен?
+    1) В чем отличие div, section, article? v
+    2) Что добавилось в HTML5 (ответ: section, article - эти все теги, плюс еще несколько типа audio, details - погугли) v
+    3) Почему хорошей практикой считается располагать <link> для подключения CSS между <head></head>, а <script> для подключения JS ставить перед </body>? v
+    4) Для чего нужны "data-" атрибуты? v
+    5) Что такое <!DOCTYPE> и зачем он нужен? v
 
   JS
     1) В чем отличие между var, let, const
@@ -47,7 +48,7 @@ Tasks:
 всеми возможными способами - чем больше, тем лучше (тут погугли, как центровать див внутри другого дива, посмотри видосы на ютубе, есть один очень хороший видос на английском - там дядька поясняет за все спосоы вроде - но найди сам :) )
 2) https://codepen.io/IvanBisultanov/pen/QEoxvg - задача по js, нужен созвон в скайпе
 3) https://codepen.io/IvanBisultanov/pen/jAJKVw - зачада по js, нужен созвон в скайпе, плюс надо посмотреть урок "Узкие места js" вроде бы, я скину потом тайминг
-4) https://codepen.io/AlexDz27/pen/REaEYo - нужен созвон - сделать так, чтоб блоки норм отображались, как на картинке
+4) https://codepen.io/AlexDz27/pen/REaEYo - нужен созвон - сделать так, чтоб блоки норм отображались, как на картинке v
 5) https://codepen.io/AlexDz27/pen/MZegwR?editors=1010 - чекбоксы. Созвон в скайпе
 6) https://codepen.io/AlexDz27/pen/WLxeXP?editors=1010 - последнее слово - созвон
 7) https://codepen.io/AlexDz27/pen/oJLgqg?editors=0010 - созвон - сетТаймаут, event loop
@@ -55,6 +56,7 @@ Tasks:
 Knowledge to keep their mouth open:
 1) В CSS лучше ставить директиву @font-face в начале, чтобы шрифт "не прыгал"
 2) Javascript - однопоточный синхронный (но в нем можно реализовать асинхронность (загрузка по сети, пользовательское взаимодействие)) язык программирования с динамической слабой типизацией (почитать - https://proglib.io/p/literacy-project-type-checking/) - нужен созвон, чтоб я поснил
+3) Схлопывание маргинов не работает, когда у родителя display: flex;
 
 Questions:
 https://medium.com/web-standards/front-end-interview-handbook-html-ab5a9b64755f
