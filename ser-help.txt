@@ -38,6 +38,8 @@ Topics:
     13) "use strict";
     14) fizzbuzz
     15) Как из ф-ции сделать класс?
+    16) Что такое jQuery?
+    17) Event delegating - как сделать, для чего нужен?
 
 Tasks:
 1) https://codepen.io/IvanBisultanov/pen/BzGbWE - отцентровать зелеый квадрат по центру красного -
@@ -50,6 +52,7 @@ Tasks:
 
 Knowledge to keep their mouth open:
 1) В CSS лучше ставить директиву @font-face в начале, чтобы шрифт "не прыгал"
+2) Javascript - однопоточный язык программирования с динамической слабой типизацией (почитать - https://proglib.io/p/literacy-project-type-checking/)
 
 Questions:
 https://medium.com/web-standards/front-end-interview-handbook-html-ab5a9b64755f
